@@ -139,6 +139,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746109953/protocols/bullish.jpg",
       "url": "https://game.bullas.xyz/",
       "description": "Bull Ish is a Proof of Liquidity game where users spend BERA to 'spank a bera,' placing them in a queue to earn BGT while depositing the square root of their spank power into the Berachain vault."
+    },
+    {
+      "name": "SX Bet x Bera Bet",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746286924/protocols/SX%20Bet%20x%20Bera%20Bet.png",
+      "url": "https://bera.bet/",
+      "description": "On-chain sports betting exchange"
     }
   ],
   "vaults": [
@@ -970,6 +976,16 @@
       "url": "https://game.bullas.xyz/",
       "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
       "owner": "BULL ISH"
+    },
+    {
+      "stakingTokenAddress": "0xe87E5456Cc78578D1FcD95048FA639e5e32eE63A",
+      "vaultAddress": "0xd1dCa482d1AF3C2e23749a965Db3A74c4E29B928",
+      "name": "SX Bet - Bera Betting Rewards",
+      "protocol": "SX Bet x Bera Bet",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746286925/vaults/0xd1dCa482d1AF3C2e23749a965Db3A74c4E29B928.png",
+      "url": "https://www.bera.bet/",
+      "description": "Bet on SX Bet (bera.bet) and earn SXBRT",
+      "owner": "SX Bet x Bera Bet"
     }
   ]
 }
