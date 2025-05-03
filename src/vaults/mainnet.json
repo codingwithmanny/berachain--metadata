@@ -970,6 +970,16 @@
       "url": "https://game.bullas.xyz/",
       "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
       "owner": "BULL ISH"
+    },
+    {
+      "stakingTokenAddress": "0x112B77A77753b092306b1c04Bd70215FeD4e00a1",
+      "vaultAddress": "0xe4c24b1da97325b183df8e4e489d54d2f6e15d58",
+      "name": "ZeroLend - Euler NECT",
+      "protocol": "Euler",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746208459/vaults/0xe4c24b1da97325b183df8e4e489d54d2f6e15d58.png",
+      "url": "https://app.euler.finance/vault/0x112B77A77753b092306b1c04Bd70215FeD4e00a1?network=berachain",
+      "description": "NECT Deposits on the Euler ZeroLend market",
+      "owner": "Euler"
     }
   ]
 }
