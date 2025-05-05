@@ -1138,6 +1138,16 @@
       "url": "https://game.bullas.xyz/",
       "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
       "owner": "BULL ISH"
+    },
+    {
+      "stakingTokenAddress": "0x3000C6BF0AAEb813e252B584c4D9a82f99e7a71D",
+      "vaultAddress": "0x9136Df2DAABe52A97340Cce8C53d4c1314d52C18",
+      "name": "Dolomite - drUSD",
+      "protocol": "Dolomite",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746458563/vaults/0x9136df2daabe52a97340cce8c53d4c1314d52c18.png",
+      "url": "https://app.dolomite.io/balances",
+      "description": "Acquire drUSD by supplying rUSD on Dolomite.io",
+      "owner": "Dolomite"
     }
   ]
 }
