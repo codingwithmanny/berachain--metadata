@@ -1132,6 +1132,16 @@
       "url": "https://game.bullas.xyz/",
       "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
       "owner": "BULL ISH"
+    },
+    {
+      "stakingTokenAddress": "0xf6c6Be0FF6d6F70A04dBE4F1aDE62cB23053Bd95",
+      "vaultAddress": "0xc6506d205c92f9acd69779ed0c547557f3ad4607",
+      "name": "Kodiak - WETH | HONEY",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746452604/vaults/0xc6506d205c92f9acd69779ed0c547557f3ad4607.jpg",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xf6c6be0ff6d6f70a04dbe4f1ade62cb23053bd95",
+      "description": "Acquired by depositing liquidity into the Kodiak - WETH | HONEY Pool on Kodiak",
+      "owner": "Kodiak"
     }
   ]
 }
