@@ -1362,6 +1362,16 @@
       "url": "https://app.dolomite.io/balances",
       "description": "Acquired by depositing uniBTC into Dolomite",
       "owner": "Bedrock"
+    },
+    {
+      "stakingTokenAddress": "0x62CF6e355C77Edb6f5C8eb2085A85cf4dE4c1852",
+      "vaultAddress": "0x006b0D54B0B85C0F9A6041cABD97F2A545eCcf3c",
+      "name": "Beraborrow | uniBTC",
+      "protocol": "Beraborrow",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747124892/vaults/0x006b0D54B0B85C0F9A6041cABD97F2A545eCcf3c.jpg",
+      "url": "https://app.beraborrow.com/managed-vault/deposit/uniBTC",
+      "description": "This token will be deposited by the Beraborrow collVault on behalf of users who use uniBTC as collateral to mint NECT on beraborrow.",
+      "owner": "Beraborrow"
     }
   ]
 }
